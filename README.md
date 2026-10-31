@@ -11,7 +11,7 @@ have been used:
 * Confusion matrix
 
 All the code was implemented using scikit-learn, except Weight of Evidence (WoE) and Information 
-Value (IV), which I've implemented from scratch to learn the concept.
+Value (IV), which I've implemented from scratch.
 
 I've experimented transforming features from categorical to numerical with One Hot Encoding and WoE.
 Both have reached almost the same results in terms of accuracy/cost, although WoE had more advantages
